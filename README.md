@@ -1,4 +1,6 @@
 first-repo
 ==========
 
-My first repo. Just a test...
+My first repo.
+
+Nothing to see here. Just keep moving...
